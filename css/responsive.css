@@ -14,8 +14,7 @@
     .rightblock{width: 500px;}
     .image1{width: 500px;}
     .title1{width: 400px;}
-    .paragraph1
-   
+    .headline-text{width: 500px;}
 }
 @media(max-width:630px){
     .ul-tag{flex-direction: column;
