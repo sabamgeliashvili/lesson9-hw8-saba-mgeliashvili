@@ -77,8 +77,14 @@ font-family: 'Poppins regular';
 
 .rightblock{
     display: flex;
-    width: 801px;
+   /* width: 801px; */
+
 }
+.image1{
+    max-width:801px;
+    width:100%;
+}
+
 
 /* section  2 */
 .wholebox2{
